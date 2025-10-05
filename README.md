@@ -1,8 +1,4 @@
 <!-- PROJECT LOGO -->
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/SpaceX_logo_black.svg/2560px-SpaceX_logo_black.svg.png" alt="Logo" width="200">
-</p>
-
 <h1 align="center">🚀 Space Exploration using VR 🌌</h1>
 
 <p align="center">
@@ -44,7 +40,7 @@
 
 ## ⬇️ Download
 
-You can download the project files directly here:  
+You can download direct run project from here:  
 👉 [**Download Project (ZIP)**](https://github.com/yourusername/yourrepo/raw/main/SpaceVR.zip)
 
 > Replace the above link with your actual `.zip` or `.exe` file path once uploaded to your repository.
