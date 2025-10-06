@@ -4,7 +4,7 @@
 <p align="center">
   <em>Make it yourself — Explore the universe like never before!</em>
   <br>
-  <a href="#🎥-demo-video">View Demo</a> •
+  <a href="https://github.com/HKgaminghub/Space-exploration-using-vr/blob/main/demo.mp4">View Demo</a> •
   <a href="#⬇️-download">Download</a> •
   <a href="#✨-features">Features</a>
 </p>
@@ -31,7 +31,7 @@
 ## 🎥 Demo Video
 
 <p align="center">
-  <video src="demo.mp4" width="700" controls></video>
+  <video src="https://github.com/HKgaminghub/Space-exploration-using-vr/blob/main/demo.mp4" width="700" controls></video>
 </p>
 
 > 💡 Tip: If the video doesn’t play inline, click **“View Raw”** on GitHub to open it directly.
