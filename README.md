@@ -41,6 +41,12 @@
 
 ## ⚙️ How to Run
 
-1. Clone this repo or download the zip:  
-   ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+1. Download the zip file :
+2. Extract Zip
+3. In zip you can see the Vr video app double click it
+4. it will open a screen in which there are two button first for space and second for mars exploration click it. It will open the scene which you can explaore.
+
+
+💡 This zip is for desktop because we all know we dont have vr but i have used virtual vr and its working so we can say that the app can be used in vr also but i have to build an vr app but i dont have vr so it is not possible to build for vr witjout vr.
+
+   
