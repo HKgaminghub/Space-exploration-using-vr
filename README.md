@@ -6,7 +6,6 @@
   <br>
   <a href="https://github.com/HKgaminghub/Space-exploration-using-vr/blob/main/demo.mp4">View Demo</a> •
   <a href="">PPT</a> •
-  <a href="#✨-features">Features</a>
 </p>
 
 ---
