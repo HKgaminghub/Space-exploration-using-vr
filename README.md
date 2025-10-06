@@ -31,7 +31,7 @@
 ## 🎥 Demo Video
 
 <p align="center">
-  <video src="https://github.com/HKgaminghub/Space-exploration-using-vr/blob/main/demo.mp4" width="700" controls></video>
+   <a href="https://github.com/HKgaminghub/Space-exploration-using-vr/blob/main/demo.mp4">View Demo</a>
 </p>
 
 > 💡 Tip: If the video doesn’t play inline, click **“View Raw”** on GitHub to open it directly.
