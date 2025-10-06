@@ -38,14 +38,6 @@
 
 ---
 
-## ⬇️ Download
-
-You can download direct run project from here:  
-👉 [**Download Project (ZIP)**](https://github.com/yourusername/yourrepo/raw/main/SpaceVR.zip)
-
-> Replace the above link with your actual `.zip` or `.exe` file path once uploaded to your repository.
-
----
 
 ## ⚙️ How to Run
 
